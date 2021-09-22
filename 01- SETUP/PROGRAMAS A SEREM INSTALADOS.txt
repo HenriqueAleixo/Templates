@@ -1,0 +1,58 @@
+﻿------------------------------------------------------------------------------------------
+Caro aluno. 
+
+Trazer durante as aulas os seguintes hardwares: 
+
+Hardware: 
+
+-> Notebook com Sistema Operacional Windows 7, 8 ou 10 (32 ou 64 bits); 
+-> Carregado do Notebook;
+-> Kit ESP32 (QUALQUER MODELO)
+-> Cabo USB para o Kit ESP32 
+-> 4 WireJumpers (Femea-Femea e Macho-Femea);
+
+------------------------------------------------------------------------------------------
+Programas a serem instalados no PC: 
+------------------------------------------------------------------------------------------
+
+-> PYTHON (Instalar as duas versões)
+    Versão 2.7
+        https://www.python.org/ftp/python/2.7.16/python-2.7.16.msi
+
+    Versão 3.7
+        https://www.python.org/ftp/python/3.7.3/python-3.7.3.exe
+        
+------------------------------------------------------------------------------------------
+        
+-> SDK_IDF para ESP32 (Atenção baixar a versão v3.3.1 do SDK-IDF) 
+
+    Pagina de Instalação: 
+        https://docs.espressif.com/projects/esp-idf/en/stable/get-started/windows-setup.html
+    
+    Download do Toolchain: 
+        https://dl.espressif.com/dl/esp32_win32_msys2_environment_and_toolchain-20181001.zip 
+
+    Download do SDK_IDF (versão estável 3.2V)
+        cd ~/esp
+        git clone -b v3.3.1 --recursive https://github.com/espressif/esp-idf.git
+    
+-> Vídeo Aulas de Instalação do SDK-IDF V3.3.1: 
+    
+    VideoP1: https://vimeo.com/334650244
+    VídeoP2: https://vimeo.com/334651075
+    VídeoP3: https://vimeo.com/334651730
+    
+-> Terminal Serial/TCPIP (RealTerm) 
+    
+    Pagina de Instalação: 
+        https://sourceforge.net/projects/realterm/
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
